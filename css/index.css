@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #000000;
+  background: rgba(51, 204, 255, .5);
+}
+
+.striped {
+  color: #ffff00;
+}
+
+nav {
+  background: rgba(51, 204, 255, .5);
+  font-size: 32px;
+}
